@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva Kumar </h1>
-<h3 align="center"> I'm an engineer, problem solver and open to learn new things. </h3>
+<h3 align="center"> I'm a Software Engineer by Profession and Electronics Enthusiast by Education. </h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3k5tT01Tisjq2N1OS45pbnYkdBbrUv9nvIQ&usqp=CAU" />
 
@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/atharvakj" target="blank"><img src="https://img.shields.io/twitter/follow/atharva_kj?logo=twitter&style=for-the-badge" alt="atharva_kj" /></a> </p>
 
 - 📫 How to reach me **atharvakjnitb@gmail.com**
-- 📫 I am currently Learning  **React.JS and Next.JS**
+- 📫 I am currently Learning  **DevOps & Python**
 
 
 <h3 align="left">Connect with me:</h3>
